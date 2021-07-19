@@ -2,4 +2,4 @@
 
 
 <p>My stats: </p>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+<img src= "https://github-readme-stats.vercel.app/api?username=PGabriel20&show_icons=true&theme=tokyonight" />
