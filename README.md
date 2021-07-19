@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+<p>My stats: </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PGabriel20&show_icons=true&theme=tokyonight)
 <!-- 
 <p>These are the programming languages that i use he most </p>
 </br>
