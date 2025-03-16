@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gabriel, im a fullstack developer with 4+ years of experience.</p>
+<p align="left">My name is Gabriel, im a fullstack software engineer with 4+ years of experience.</p>
 
 ###
 
